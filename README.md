@@ -6,6 +6,11 @@ Run ussd code directly in your application
 
 Add dependency to pubspec.yaml file
 
+```
+    ussd_advanced:
+      git:
+        url: https://github.com/impayru/ussd_advanced.git
+```
 
 ### Android
 You'll need to add the `CALL_PHONE` permission and `READ_PHONE_STATE` to your Android Manifest.
